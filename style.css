@@ -1,0 +1,97 @@
+@charset "UTF-8";
+.header {
+}
+.nav {
+	background-color: #000000;
+	height: 80px;
+}
+.hero {
+}
+.banner {
+	background-image: url(paintwave.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 832px;
+}
+.footer {
+	background-image: -webkit-linear-gradient(78deg,rgba(255,91,127,1.00) 0%,rgba(255,213,86,1.00) 100%);
+	background-image: -moz-linear-gradient(78deg,rgba(255,91,127,1.00) 0%,rgba(255,213,86,1.00) 100%);
+	background-image: -o-linear-gradient(78deg,rgba(255,91,127,1.00) 0%,rgba(255,213,86,1.00) 100%);
+	background-image: linear-gradient(12deg,rgba(255,91,127,1.00) 0%,rgba(255,213,86,1.00) 100%);
+	background-position: center center;
+	background-size: auto auto;
+	clear: both;
+	height: 385px;
+}
+.col-1 {
+	float: left;
+	text-align: center;
+	font-family: inconsolata;
+	font-style: normal;
+	font-weight: 500;
+}
+.herop {
+	text-align: center;
+	font-family: inconsolata;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	width: 50%;
+	float: left;
+	padding-left: 74px;
+	clear: left;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	height: 0px;
+}
+.col-2 {
+}
+.hero .col-2 img {
+	clear: right;
+	float: right;
+	padding-bottom: 0px;
+	top: auto;
+	height: 655px;
+	width: 50%;
+}
+.footer img {
+	margin-left: 0px;
+	float: none;
+	clear: none;
+	padding-left: 629px;
+	padding-top: 125px;
+}
+.banner p {
+	font-family: inconsolata;
+	font-style: normal;
+	font-weight: 500;
+	text-align: center;
+	color: #FFFFFF;
+	text-shadow: 1px 1px 1px #000000;
+	font-size: 24px;
+}
+.footer p {
+	font-family: inconsolata;
+	font-style: normal;
+	font-weight: 500;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 12px;
+}
+.p {
+	text-align: center;
+	width: 586px;
+	font-family: inconsolata;
+	font-style: normal;
+	font-weight: 500;
+}
+.nav img {
+	padding-top: 26px;
+	padding-left: 40PX;
+}
+.banner strong {
+	font-size: 124px;
+	font-family: inconsolata;
+	font-style: normal;
+	font-weight: 500;
+}
